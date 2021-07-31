@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\prana\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(705,41): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\prana\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(705,48): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+  ConsoleApplication1.vcxproj -> C:\Users\prana\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.exe
